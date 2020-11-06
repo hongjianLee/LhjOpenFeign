@@ -9,7 +9,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <relativePath>../lhj-parent/pom.xml</relativePath>
   </parent>
-  <name>LhjDemo</name>
+  <name>LhjOpenFeign</name>
   <groupId>com.lhj</groupId>
   <artifactId>LhjOpenFeign</artifactId>
   <version>1.0.0-SNAPSHOT</version>
